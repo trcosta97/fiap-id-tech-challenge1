@@ -4,6 +4,12 @@ Projeto de Machine Learning para classificação do desfecho de pacientes com c�
 
 ---
 
+## Vídeo de Demonstração
+
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir-red?logo=youtube)](https://youtu.be/7Bw4rorYXZs)
+
+---
+
 ## Notebooks
 
 | Arquivo | Descrição |
