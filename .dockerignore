@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Aider
+.aider*
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentação e configs locais
+README.md

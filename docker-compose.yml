@@ -1,0 +1,10 @@
+services:
+  jupyter:
+    build: .
+    container_name: breast-cancer-jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      # Monta o projeto local dentro do container para edições em tempo real
+      - .:/app
+    restart: unless-stopped
