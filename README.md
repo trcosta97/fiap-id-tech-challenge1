@@ -174,12 +174,6 @@ O modelo pode ser utilizado como **ferramenta de suporte à decisão** em triage
 - O desbalanceamento (~85/15) foi mitigado mas não eliminado — técnicas como SMOTE podem melhorar os resultados
 - Os dados são de um único dataset público; validação em dados hospitalares externos é necessária antes de qualquer uso clínico
 
-**Próximos passos sugeridos:**
-- Aplicar SMOTE para oversampling da classe Dead
-- Ajuste de threshold de decisão para maximizar Recall
-- Tuning de hiperparâmetros com GridSearchCV ou Optuna
-- Validação em dataset externo (holdout hospitalar)
-
 ---
 
 ## Dependências principais
